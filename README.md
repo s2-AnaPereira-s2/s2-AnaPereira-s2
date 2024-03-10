@@ -9,7 +9,7 @@ I'm from Brazil, living in Berlin. I'm doing Python course building my programmi
 🌱 I’m currently learning Python programming  
 👯 I’m looking to collaborate and get more experience  
 
-Check it out [Ana Pereia](https://s2-anapereira-s2.github.io/) 
+
 
 
 

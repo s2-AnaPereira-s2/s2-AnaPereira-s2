@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/0x4yMPr.png" alt="Test Banner" width="600" />
+  <img src="https://i.imgur.com/0x4yMPr.png" alt="Ana Pereira - Python & Kotlin Developer" width="600" />
 </p>
 
 <h3 align="center">Hi, I’m Ana Pereira 👩‍💻</h3>

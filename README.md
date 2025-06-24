@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Ana%20Pereira%20-%20Python%20%26%20Kotlin%20Developer&fontSize=36&fontColor=00ffdd" alt="Tech Banner" />
+  <img src="https://img.shields.io/badge/Ana%20Pereira-Python%20%26%20Kotlin-blueviolet?style=for-the-badge&logo=python&logoColor=white" alt="Ana Pereira Banner" />
 </p>
 
 <h3 align="center">Hi, I’m Ana Pereira 👩‍💻</h3>

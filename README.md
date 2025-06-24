@@ -1,20 +1,38 @@
-..Welcome to my world...  
+# 👋 Hi, I’m Ana Pereira
 
+🇧🇷 Brazilian living in Berlin, Germany 🇩🇪
 
-My name is Ana Pereira  
+---
 
-I'm from Brazil, living in Berlin. 
+### 👩‍💻 About Me
+- Python Backend Developer passionate about writing clean, efficient code  
+- Currently a Software Engineering student at **42 Berlin**  
+- Learning **Android Development with Kotlin** at **DevSpace**  
+- Enthusiastic about collaboration, continuous learning, and solving real-world problems
 
-👩‍💻 I’m a Python Backend Programmer
+---
 
-🌱 Software Engineer student at 42 Berlin
+### 🚀 Skills & Tech Stack
+- **Languages:** Python, Kotlin, SQL  
+- **Frameworks:** Django, Flask, Android SDK  
+- **Tools:** Git, Docker, Postman, VSCode  
+- **Currently learning:** Mobile app architecture, REST APIs, CI/CD pipelines
 
-🌱 I’m currently studying Android Development- Kotlin at DevSpace
+---
 
+### 📫 How to reach me  
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
+- [Email](mailto:your.email@example.com)  
+- [Portfolio/Website](https://yourportfolio.com)
 
-👯 I’m looking forward to collaborate and get experience.
+---
 
+### 🔥 Fun fact
+I enjoy building projects that blend backend robustness with smooth mobile user experiences.
 
+---
+
+Thanks for stopping by! Feel free to explore my repos and connect! 🚀
 
 
 

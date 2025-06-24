@@ -21,9 +21,9 @@
 ---
 
 ### 📫 How to reach me  
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
-- [Email](mailto:your.email@example.com)  
-- [Portfolio/Website](https://yourportfolio.com)
+- [LinkedIn]([https://www.linkedin.com/in/anapaulasantospereira/])  
+- [Email](mailto:ana.she.po@gmail.com)  
+- [Portfolio/Website](https://anapereira.pythonanywhere.com/)
 
 ---
 

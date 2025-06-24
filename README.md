@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/0x4yMPr.png" alt="Ana Pereira - Python & Kotlin Developer" width="600" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontColor=00FFD1&fontWeight=700&animation=twinkling" alt="Welcome Banner" />
 </p>
 
 <h3 align="center">Hi, I’m Ana Pereira 👩‍💻</h3>

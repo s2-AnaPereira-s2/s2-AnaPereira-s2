@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&text=Ana%20Pereira%20-%20Python%20%26%20Kotlin%20Developer&fontSize=36&fontColor=00FFDD&fontWeight=700" alt="Tech Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&text=Ana%20Pereira%20-%20Python%20%26%20Kotlin%20Developer&fontSize=36&fontColor=00FFDD&fontWeight=700" alt="Tech Banner" />
 </p>
 
 <h3 align="center">Hi, I’m Ana Pereira 👩‍💻</h3>

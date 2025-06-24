@@ -1,41 +1,26 @@
-# 👋 Hi, I’m Ana Pereira
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontColor=ffffff" alt="Welcome Banner" />
+</p>
 
-🇧🇷 Brazilian living in Berlin, Germany 🇩🇪
+<h3 align="center">Hi, I’m Ana Pereira 👋</h3>
+<p align="center">Brazilian living in Berlin 🇧🇷🇩🇪</p>
 
----
+<p align="center">
+  👩‍💻 Python Backend Developer | Student at 42 Berlin | Kotlin learner at DevSpace<br>
+  🚀 Passionate about coding, collaboration, and continuous growth
+</p>
 
-### 👩‍💻 About Me
-- Python Backend Developer passionate about writing clean, efficient code  
-- Software Engineering student at **42 Berlin**  
-- Currently learning **Android Development with Kotlin** at **DevSpace**  
-- Enthusiastic about collaboration, continuous learning, and solving real-world problems
-
----
-
-### 🚀 Skills & Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-### 📫 How to reach me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anapaulasantospereira/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ana.she.po@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://anapereira.pythonanywhere.com/)
-
----
-
-### 🔥 GitHub Stats  
-![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=s2-AnaPereira-s2&show_icons=true&theme=radical&count_private=true)
-
----
-
-Thanks for stopping by! Feel free to explore my repos and connect! 🚀
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/anapaulasantospereira/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ana.she.po@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://anapereira.pythonanywhere.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 
 

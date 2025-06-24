@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Ana%20Pereira-Python%20%26%20Kotlin-blueviolet?style=for-the-badge&logo=python&logoColor=white" alt="Ana Pereira Banner" />
+  <img src="https://user-images.githubusercontent.com/85438330/207203553-c4a29a4a-04a4-4a55-b1b6-94a27a0e9eaa.png" alt="Tech Banner" width="600" />
 </p>
 
 <h3 align="center">Hi, I’m Ana Pereira 👩‍💻</h3>

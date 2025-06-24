@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontColor=ffffff" alt="Welcome Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&text=Ana%20Pereira%20-%20Python%20%26%20Kotlin%20Developer&fontSize=36&fontColor=00FFDD&fontWeight=700" alt="Tech Banner" />
 </p>
 
-<h3 align="center">Hi, I’m Ana Pereira 👋</h3>
+<h3 align="center">Hi, I’m Ana Pereira 👩‍💻</h3>
 <p align="center">Brazilian living in Berlin 🇧🇷🇩🇪</p>
 
 <p align="center">
-  👩‍💻 Python Backend Developer | Student at 42 Berlin | Kotlin learner at DevSpace<br>
-  🚀 Passionate about coding, collaboration, and continuous growth
+  Python Backend Developer | Software Engineering student at 42 Berlin | Kotlin learner at DevSpace<br>
+  Passionate about coding, collaboration, and continuous growth 🚀
 </p>
 
 <p align="center">
@@ -21,6 +21,7 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
   </a>
 </p>
+
 
 
 
